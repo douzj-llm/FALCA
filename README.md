@@ -6,7 +6,7 @@ Zijun Dou\*, Kun Luo\*, Chaofan Li, Shuqi Lu, Zheng Liu†
 
 \* Equal contribution · † Corresponding author
 
-[Project Page](https://douzj-llm.github.io/FALCA/) · [Paper](https://douzj-llm.github.io/FALCA/static/pdf/falca_paper.pdf)
+[Project Page](https://douzj-llm.github.io/FALCA/) · [Paper](https://arxiv.org/abs/2610.28361)
 
 FALCA formulates long-horizon deep search as a propose–falsify process: a Searcher proposes candidate answers, independent Falsifiers seek counterevidence and return structured falsification reports, and the Searcher revises its research state. Training combines SFT warmup on falsification trajectories with agentic RL using hierarchical credit assignment over trajectories, research segments, and turns.
 
@@ -20,7 +20,7 @@ Code and model will be released here.
              Hierarchical Credit Assignment for Long-Horizon Deep Search Agents},
   author  = {Dou, Zijun and Luo, Kun and Li, Chaofan and
              Lu, Shuqi and Liu, Zheng},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2610.28361},
   year    = {2026}
 }
 ```
